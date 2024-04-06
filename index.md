@@ -5,3 +5,11 @@
 
 
 ![This is a NatGeo cat](https://github.com/lkhanna11/communicate-using-markdown1/assets/166187994/5f9004cb-55cc-4d20-890d-139b7e97613d)
+
+``` javascript
+class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!"); 
+    }
+}
+```
